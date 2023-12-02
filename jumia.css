@@ -1,0 +1,44 @@
+.n{
+  display: flex;
+  justify-content: space-between;
+  color : orange;
+}
+.nav{
+  display: flex;
+  justify-content: space-around;
+}
+.card{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.bi-person:hover{
+  background-color: grey;
+}
+.bi-archive:hover{
+  background-color: grey;
+}
+.bi-envelope-arrow-up-fill:hover{
+  background-color: gray;
+}
+.bi-ticket-perforated-fill:hover{
+  background-color: grey;
+}
+.bi-arrow-counterclockwise:hover{
+  background-color: grey;
+}
+.u{
+  border: 1px solid linen;
+  width: 300px;
+}
+.m{
+  border: 2px solid linen;
+  width: 700px;
+}
+.p{ 
+  color: orange;
+  text-decoration: underline;
+}
+.end{
+  justify-content: flex-end;
+}
